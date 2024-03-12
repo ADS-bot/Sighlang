@@ -1,5 +1,5 @@
 # Two Way Sign Language Translate
-Desktop App to Translate Sign Language from Voice to Sign and Vice Versa
+Translate Sign Language from Voice to Sign and Vice Versa
 
 #### Libraries Used: Tkinter, Tensorflow, Keras, Pyaudio, Speech Recognition, PIL, OpenCV
 
